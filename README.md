@@ -1,4 +1,5 @@
-<h2>Olá Pessoal👋, Meu nome é Mateus Silva</h2>
+<h1>Mateus Silva</h1>
+<p>Olá Pessoal👋, Meu nome é Mateus Silva</p>
 
 - 📖 Eu estou estudando desenvolvimento WEB (HTML, CSS, Bootstrap e JavaScript)
 - ♂️ Ele/Dele
